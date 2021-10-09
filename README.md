@@ -3,5 +3,4 @@
 - 🎈 Estou começando a programar
 - 🐱‍👤 Estudando JavaScript
 - 🍁 Tenho 16 anos
-- ♟ Pretendo entrar no mercado de desenvolvimento em breve! 
-
+- ♟ Buscando minha primeira oportunidade na área
