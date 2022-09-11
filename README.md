@@ -1,5 +1,5 @@
 ###  🖤 Bom dia sô, Eu sou o Daniel Assunção :)
 
-- 🎈 Estou começando a programar
+- 🎈 Sou estagiário em desenvolvimento .NET
 - 🐱‍👤 Estudando JavaScript e .NET
-- 🍁 Tenho 16 anos
+- 🍁 Tenho 17 anos
